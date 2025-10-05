@@ -11,8 +11,7 @@
 - 💬 Got questions about C++, microservices, queues, or algorithmic puzzles? I’m your guy  
 
 ---
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazhraja)  
+## 🌐 Connect With Me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazhraja)  
 
 ---
 
@@ -78,13 +77,6 @@ I maintain and actively engage with my LeetCode profile:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deathblade1104&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathblade1104&theme=dark&hide_border=false&layout=compact)  
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deathblade1104&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deathblade1104&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathblade1104&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deathblade1104&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -93,9 +85,6 @@ I maintain and actively engage with my LeetCode profile:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deathblade1104&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deathblade1104&icon=0&color=0)](https://visitcount.itsvg.in)
