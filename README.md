@@ -17,25 +17,18 @@
 
 ## 🧰 Tech Stack & Tools  
 
-**Languages / Runtime**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 🧑‍💻 Languages  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  , ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  , ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  , ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
-**Backend / Frameworks / Infra**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### 🛠️ Backend, Infra & Frameworks  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  , ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) , ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white),  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) , ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) , ![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🗄️ Databases & Search  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  , ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ,![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) , ![OpenSearch](https://img.shields.io/badge/OpenSearch-%230072C6.svg?style=for-the-badge&logo=opensearch&logoColor=white) , ![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300B8D9.svg?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -52,7 +45,20 @@ Here are a few technical areas and project ideas I focus on (or have worked on) 
 - **High-performance data modelling** & query optimization  
 - **System design patterns**: CQRS, Event Sourcing, Saga, Distributed Transactions  
 
-If you check my repos, you’ll see small prototypes / experiments around these themes (or will soon).  
+If you check my repos, you’ll see small prototypes / experiments around these themes (or will soon). 
+
+### 🧠 GenAI & ML Stack  
+🤖 Experienced in integrating **LLMs and GenAI workflows** into production backend systems:  
+- **LangChain / LangGraph** – for chaining models, memory, and retrieval  
+- **Prompt Engineering** – to build structured, reliable model outputs  
+- **MCP (Model Context Protocol)** – for auto-generating documentation and structured workflows  
+- **OpenAI / Gemini APIs** – for ticket classification, retrieval-augmented generation, and semantic search  
+- **ChromaDB** – for vector storage and semantic retrieval in Q&A systems
+
+Examples:  
+- Built a GenAI-based **ticket classifier** that improved triage accuracy to **85%** and reduced handling time by **40%**  
+- Developed a **semantic Q&A retrieval app** using ChromaDB + Google Generative AI  
+- Automated internal documentation workflows with **GitHub MCP agents**
 
 ---
 
