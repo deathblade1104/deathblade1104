@@ -45,7 +45,7 @@ Here are a few technical areas and project ideas I focus on (or have worked on) 
 - **High-performance data modelling** & query optimization  
 - **System design patterns**: CQRS, Event Sourcing, Saga, Distributed Transactions  
 
-If you check my repos, you’ll see small prototypes / experiments around these themes (or will soon). 
+If you check my repos, you’ll see small prototypes/experiments around these themes (or will soon). 
 
 ### 🧠 GenAI & ML Stack  
 🤖 Experienced in integrating **LLMs and GenAI workflows** into production backend systems:  
