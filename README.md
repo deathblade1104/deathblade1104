@@ -8,7 +8,7 @@
 - 🔭 Currently working with **Node.js / NestJS**, building robust backend systems  
 - 🌱 Deep diving into **System Design**, distributed systems & architecture  
 - 🛠️ I love exploring “why” behind system behaviors (latency, availability, consistency)  
-- 💬 Got questions about C++, microservices, queues, or algorithmic puzzles? I’m your guy  
+- 💬 Got questions about backend/genai, microservices, queues, or algorithmic puzzles? I’m your guy  
 
 ---
 ## 🌐 Connect With Me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazhraja)  
