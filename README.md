@@ -11,7 +11,8 @@
 - 💬 Got questions about backend/genai, microservices, queues, or algorithmic puzzles? I’m your guy  
 
 ---
-## 🌐 Connect With Me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazhraja)  
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbazhraja)  
 
 ---
 
