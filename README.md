@@ -4,7 +4,7 @@ Backend engineer building event-driven systems and AI infrastructure.
 Currently shipping at [Drivetrain.ai](https://drivetrain.ai) — previously
 [WeWork India](https://wework.co.in) and [LetsTransport](https://letstransport.com).
 
-🌐 **Portfolio: [shahbazhraja.vercel.app](https://shahbazhraja.vercel.app)** ← full work, projects, code samples
+🌐 **Portfolio: [shahbazhraja.vercel.app](https://shahbazhraja.com/portfolio)** ← full work, projects, code samples
 
 ---
 
