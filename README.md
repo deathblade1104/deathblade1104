@@ -23,7 +23,7 @@ Currently shipping at [Drivetrain.ai](https://drivetrain.ai) — previously
 - **Cross-version metric cloning** — DAG-based dependency resolution with regex-safe formula rewriting
 - **SpaceOps** at WeWork — saved INR 1Cr/year in licensing, adopted by 300 internal users across 70+ centres
 
-## Side projects ([details on the portfolio](https://shahbazhraja.vercel.app/#projects))
+## Side projects ([details on the portfolio](https://shahbazhraja.com/#projects))
 
 - 🎯 **Trade Matching Engine** — orderbook with price-time priority, partial fills, Java + Spring Boot
 - 🎬 **YouTube.ai** — video-intelligence backend (Whisper + map-reduce summarization + HLS streaming)
@@ -45,7 +45,7 @@ Currently shipping at [Drivetrain.ai](https://drivetrain.ai) — previously
 
 ## 🌐 Reach me
 
-- 🌍 **Portfolio** — [shahbazhraja.vercel.app](https://shahbazhraja.vercel.app)
+- 🌍 **Portfolio** — [shahbazhraja.com](https://shahbazhraja.com)
 - 💼 **LinkedIn** — [linkedin.com/in/shahbazhraja](https://linkedin.com/in/shahbazhraja)
 - ✉️  **Email** — [shahbazhraja.work@gmail.com](mailto:shahbazhraja.work@gmail.com)
 - 📝 **Medium** — [@deathblade1104](https://medium.com/@deathblade1104)
