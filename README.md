@@ -1,61 +1,41 @@
 ### Hi 👋 I'm **Shahbaz Hasan Raja**
 
-Backend engineer building event-driven systems and AI infrastructure.
-Currently shipping at [Drivetrain.ai](https://drivetrain.ai) — previously
-[WeWork India](https://wework.co.in) and [LetsTransport](https://letstransport.com).
+Backend & applied AI engineer (4+ years, Bengaluru). I build AI agents, MCP servers
+and the multi-tenant backends they run on, currently at [Drivetrain.ai](https://drivetrain.ai);
+previously [WeWork India](https://wework.co.in) and [LetsTransport](https://letstransport.com).
 
-🌐 **Portfolio: [shahbazhraja.com](https://shahbazhraja.com/)** ← full work, projects, code samples
-
----
-
-## What I do
-
-- **Backend systems** — multi-tenant platforms, RBAC, audit logging, queue-driven workflows
-- **AI infra** — Claude Agent SDK, MCP gateways, autonomous triage agents
-- **Distributed systems** — event sourcing, outbox pattern, exactly-once delivery, bloom filters
-- **Performance** — query optimization, write-through caching, concurrent execution patterns
-
-## Things I've shipped recently
-
-- **RBAC Audit Logging** at Drivetrain — 500+ tenants, 13 resource types, batch DB writes, role-scoped views
-- **Maglev** — autonomous Linear-triage agent on the Claude Agent SDK; cut MTTA from hours to <5 min
-- **Heimdall** — stateless MCP gateway proxying 5 internal services with TTL caching + fault isolation
-- **Cross-version metric cloning** — DAG-based dependency resolution with regex-safe formula rewriting
-- **SpaceOps** at WeWork — saved INR 1Cr/year in licensing, adopted by 300 internal users across 70+ centres
-
-## Side projects ([details on the portfolio](https://shahbazhraja.com/#projects))
-
-- 🎯 **Trade Matching Engine** — orderbook with price-time priority, partial fills, Java + Spring Boot
-- 🎬 **YouTube.ai** — video-intelligence backend (Whisper + map-reduce summarization + HLS streaming)
+🌐 **[shahbazhraja.com](https://shahbazhraja.com/)**: my portfolio, with an AI agent you can question about my work
 
 ---
+
+## Recent work at Drivetrain.ai
+
+- **Heimdall**: MCP gateway that lets anyone at the company ask Claude about customer calls, support conversations and product data. Used by nearly half the company, 100K+ tool calls
+- **Support Bot**: the classifier behind every customer Slack/Teams channel (TypeSafe's Jev first, Claude for hard cases), one ticket intake for all channels, decisions reviewed into an eval set
+- **Drive AI**: data access and user memory for Drivetrain's AI assistant. A read-only BigQuery endpoint where the assistant runs SQL it writes itself (no-write account, single-SELECT validator, cost and row caps), plus saved user preferences applied in every chat, hardened against prompt injection
+- **Stringer**: call intelligence across 8K+ sales and customer calls; Claude reaches it through Heimdall
+- **MCP OAuth**: designed the sign-in for Drivetrain's customer-facing MCP server (OAuth 2.0, PKCE, Dynamic Client Registration)
+- **RBAC audit logging**: across 500+ companies, with search, CSV export and a read-only auditor role
+
+## Side projects ([details](https://shahbazhraja.com/#projects))
+
+- 🤖 **[Ask about Shahbaz](https://shahbazhraja.com/projects/ask-about-shahbaz)**: agentic RAG over my portfolio. A PydanticAI agent with filesystem tools, hybrid search (pgvector + full-text, RRF), and a free-LLM fallback chain (Groq → Cloudflare Workers AI → Gemini)
+- 🏗️ **[Personal Developer Platform](https://shahbazhraja.com/projects/personal-platform)**: NestJS + FastAPI services, an MCP server for Claude, self-hosted on Coolify over Tailscale + Cloudflare Tunnel, end-to-end request tracing
+- 🎬 **[YouTube.ai](https://shahbazhraja.com/projects/youtube-ai)**: video-intelligence backend (distributed Whisper, map-reduce summarization, HLS, Kafka outbox)
 
 ## 🧰 Stack
 
-**Languages:** Java • TypeScript • Python • C++ • JavaScript
-**Backend:** NestJS • Spring Boot • FastAPI • Node.js
-**GenAI:** Claude Agent SDK • MCP • LangChain / LangGraph • OpenAI API
-**Data:** PostgreSQL • MongoDB • Redis • OpenSearch
-**Infra:** AWS • GCP • Docker • Apache Airflow
-**Eventing:** Kafka • BullMQ • Server-Sent Events
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Languages:** Python • Java • TypeScript • C++
+**Backend:** FastAPI • Spring Boot • NestJS • Node.js
+**AI:** Claude API • Claude Agent SDK • MCP • PydanticAI • RAG • LLM evals • LangChain
+**Data:** PostgreSQL (pgvector) • ClickHouse • Redis • MongoDB • OpenSearch
+**Infra & eventing:** AWS • GCP • Docker • Kafka • BullMQ • SQS • Airflow
 
 ---
 
 ## 🌐 Reach me
 
-- 🌍 **Portfolio** — [shahbazhraja.com](https://shahbazhraja.com)
-- 💼 **LinkedIn** — [linkedin.com/in/shahbazhraja](https://linkedin.com/in/shahbazhraja)
-- ✉️  **Email** — [shahbazhraja.work@gmail.com](mailto:shahbazhraja.work@gmail.com)
-- 📝 **Medium** — [@deathblade1104](https://medium.com/@deathblade1104)
-- 🧮 **LeetCode** — [u/deathblade1104](https://leetcode.com/u/deathblade1104/) (Knight, 2000+ rating, top 2.53%)
-- 🟢 **GeeksforGeeks** — [shahbaz1104](https://www.geeksforgeeks.org/profile/shahbaz1104) (#1 in university)
+- 🌍 [shahbazhraja.com](https://shahbazhraja.com) · 💼 [LinkedIn](https://linkedin.com/in/shahbazhraja) · ✉️ [shahbazhraja.work@gmail.com](mailto:shahbazhraja.work@gmail.com)
+- 📝 [Medium](https://medium.com/@deathblade1104) · 🧮 [LeetCode](https://leetcode.com/u/deathblade1104/) (Knight, 2000+, top 2.5%) · 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shahbaz1104) (#1 in university)
 
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=deathblade1104&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deathblade1104&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathblade1104&theme=dark&hide_border=true&layout=compact)
